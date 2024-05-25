@@ -1,0 +1,3 @@
+﻿  CYK algorithm.cpp
+C:\facultate\sem2\LFA\lab-tema3\CYK algorithm\CYK algorithm\CYK algorithm.cpp(82,1): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  CYK algorithm.vcxproj -> C:\facultate\sem2\LFA\lab-tema3\CYK algorithm\x64\Debug\CYK algorithm.exe

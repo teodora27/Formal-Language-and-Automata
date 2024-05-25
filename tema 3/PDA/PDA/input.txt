@@ -1,0 +1,10 @@
+2
+0
+1
+1
+4
+0 0 a Z A
+0 0 a A AA
+0 1 b A 0
+1 1 b A 0
+aaabbb
