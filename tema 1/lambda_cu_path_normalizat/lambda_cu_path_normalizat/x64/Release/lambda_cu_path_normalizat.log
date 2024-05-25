@@ -1,0 +1,7 @@
+﻿  lambda_cu_path_normalizat.cpp
+C:\facultate\sem2\LFA\lab-tema1\lambda\lambda_cu_path_normalizat\lambda_cu_path_normalizat\lambda_cu_path_normalizat.cpp(147,46): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 281 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  lambda_cu_path_normalizat.vcxproj -> C:\facultate\sem2\LFA\lab-tema1\lambda\lambda_cu_path_normalizat\x64\Release\lambda_cu_path_normalizat.exe
